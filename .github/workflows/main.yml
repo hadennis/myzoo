@@ -30,7 +30,7 @@ jobs:
         run: echo Hello, world!
       
       - name: First interaction
-        uses: hadennis/first-interaction@v1.1.0
+        uses: actions/first-interaction@v1.1.0
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
